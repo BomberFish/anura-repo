@@ -1,0 +1,10 @@
+{
+  "name": "Flappy Bird (2025)",
+  "icon": "icon.png",
+  "summary": "Slop NFT version of Flappy Bird",
+  "desc": "haha trademark poaching go brrr",
+  "package": "bomberfish.flappy",
+  "data": "data.zip",
+  "version": "test19",
+  "category": "Games"
+}

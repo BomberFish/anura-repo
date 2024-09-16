@@ -21,14 +21,14 @@
       "category": "Games"
     },
     {
-  "name": "Paint",
-  "icon": "128x128.png",
-  "summary": "MS Paint in Anura",
-  "desc": "A faithful recreation of MS Paint! \nOriginal repository: https://github.com/1j01/jspaint",
-  "package": "bomberfish.paint",
-  "data": "data.zip",
-  "version": "1.0.0",
-  "category": "Utilities"
-}
+      "name": "Paint",
+      "icon": "128x128.png",
+      "summary": "MS Paint in Anura",
+      "desc": "A faithful recreation of MS Paint! \nOriginal repository: https://github.com/1j01/jspaint",
+      "package": "bomberfish.paint",
+      "data": "data.zip",
+      "version": "1.0.0",
+      "category": "Utilities"
+    }
   ]
 }

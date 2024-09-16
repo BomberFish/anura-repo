@@ -1,0 +1,12 @@
+{
+  "name": "Flappy Bird (2025)",
+  "type": "auto",
+  "package": "bomberfish.flappy",
+  "index": "index.html",
+  "icon": "icon.png",
+  "wininfo": {
+    "title": "Flappy Bird",
+    "width": "360px",
+    "height": "640px"
+  }
+}
